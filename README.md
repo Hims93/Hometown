@@ -1,20 +1,16 @@
-                                                                        Hometown
+                                                                  Hometown
 The hometown homepage is my first project of Front-End course, in this course I build web designs from scratch and structure the code to finish the layout design.
 
 Table of Contents: 
 
-1. Design requirements
-1.1 Structure Design
-1.2 Colors
-1.3 Fonts and texts
-1.4 Publish files
-2. Pre-work phases
-2.1 Refine the project using CSS
-3. Before production
-
-   
-The Hometown Homepage is my first static website in which I introduce my hometown spots and brief information to visitors who can review and knowing more about Hometown. Welcome to contact me if you need a local tour guide.
-
+    1. Design requirements
+        1.1 Structure Design
+        1.2 Colors
+        1.3 Fonts and texts
+        1.4 Publish files
+    2. Pre-work phases
+        2.1 Refine the project using CSS
+    3. Before production
 
 How I start the project?
 
@@ -23,9 +19,11 @@ It's important to brainstorm the HTML structure before starting coding, this ste
 To show the completed work between a Web and a template, I prefer refining the CSS code to make sure the project can align the design.
 
 1. - Design requirements
+     
 Designing a hometown homepage website requires following some rules and taking into consideration that the project is not only a graphic project but a web project too. The next sections are crucial for any web project.
 
 1.1 - Structure design
+
  HTML is "HyperText Markup Language" It defines the meaning and structure of web content. The Web Designer should keep the structure simple and the similar content should be grouped together to make sure it can be read clearly.
 
 ℹ️ [HTML] GET to know more about the definition. → MDN
@@ -45,6 +43,7 @@ Designing a hometown homepage website requires following some rules and taking i
 ⬆ back to top
 
 1.2 - Colors
+
 You can "SAVE" your color preference in your account. → Color Palette
 
  All colors used in the creatives are named (RED: #E63946, LIGHT: #F1FAEE, AQUA: #A8DADC, LIGHT BLUE: #457B9D, DARK BLUE: #1D3557) which are provided by Scrimba course so that they become the basic color guideline to use in my project.
@@ -68,9 +67,13 @@ Resources:
 
 
 1.4 - Publish files
+
  How to host your website, there are several ways. 1. Netlify provides next-generation web hosting and automation that's very affordable. Is can be integrated with Github for publishing the web easily. The alternative is using Github Page, my way is to use Github Page. → Comparison of Github Page and Netlify
+ 
 2. - Pre-work phases
+     
 2.1 - Refine the project using CSS
+
 It is recommended to master the flex-box concept, it usually combines with different Property like flex-direction: column; align-items: center; .
 
 Define what condition to use the flex-box, it influences how the content displayed.
@@ -78,6 +81,7 @@ Define what condition to use the flex-box, it influences how the content display
 ⚠️ When using the flex-box, it is good to use the property of "gap" rather than "margin" to generate the gap.
 
 3. - Before production
+   - 
 Before launching your website, be sure to review all your code and make sure the text layout and comment it's easy to read for another programmer.
 
 ⬆ back to top
